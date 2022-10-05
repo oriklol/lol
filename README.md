@@ -8,12 +8,12 @@
 	
 <div class="wrap">
 	<div class="cube">
-		<div class="front"><img src="./lolface.jpg"/></div>
-		<div class="back"><img src="./lolface.jpg"/></div>
-		<div class="top"><img src="./lolface.jpg"/></div>
-		<div class="bottom"><img src="./lolface.jpg"/></div>
-		<div class="left"><img src="./lolface.jpg"/></div>
-		<div class="right"><img src="./lolface.jpg"/></div>
+		<div class="front"><img src="./lolface.png"/></div>
+		<div class="back"><img src="./lolface.png"/></div>
+		<div class="top"><img src="./lolface.png"/></div>
+		<div class="bottom"><img src="./lolface.png"/></div>
+		<div class="left"><img src="./lolface.png"/></div>
+		<div class="right"><img src="./lolface.png"/></div>
 	</div>
 </div>
 </body>
